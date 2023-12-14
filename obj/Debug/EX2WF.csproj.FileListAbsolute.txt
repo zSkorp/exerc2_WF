@@ -1,0 +1,11 @@
+C:\Users\aluno\source\repos\EX2WF\EX2WF\bin\Debug\EX2WF.exe.config
+C:\Users\aluno\source\repos\EX2WF\EX2WF\bin\Debug\EX2WF.exe
+C:\Users\aluno\source\repos\EX2WF\EX2WF\bin\Debug\EX2WF.pdb
+C:\Users\aluno\source\repos\EX2WF\EX2WF\obj\Debug\EX2WF.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\EX2WF\EX2WF\obj\Debug\EX2WF.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\EX2WF\EX2WF\obj\Debug\EX2WF.Form1.resources
+C:\Users\aluno\source\repos\EX2WF\EX2WF\obj\Debug\EX2WF.Properties.Resources.resources
+C:\Users\aluno\source\repos\EX2WF\EX2WF\obj\Debug\EX2WF.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\EX2WF\EX2WF\obj\Debug\EX2WF.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\EX2WF\EX2WF\obj\Debug\EX2WF.exe
+C:\Users\aluno\source\repos\EX2WF\EX2WF\obj\Debug\EX2WF.pdb
